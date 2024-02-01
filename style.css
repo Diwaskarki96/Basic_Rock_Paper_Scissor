@@ -9,11 +9,11 @@ body {
   height: 100%;
   width: 100%;
 }
-#You {
+#user {
   font-size: large;
   margin: 10px;
 }
-#Computer {
+#computer {
   font-size: large;
   margin: 10px;
 }
