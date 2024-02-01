@@ -50,7 +50,7 @@ function getResult() {
     result = "you win!";
   }
   if (computerChoice === "scissors" && userChoice === "paper") {
-    result = "you lose!";
+    result = "you win!";
   }
   resultDisplay.innerHTML = result;
 }
